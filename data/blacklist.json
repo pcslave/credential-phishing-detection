@@ -1,0 +1,8 @@
+{
+  "domains": [
+    "phishing-example.com",
+    "fake-login.net",
+    "suspicious-site.org"
+  ],
+  "description": "Known phishing domains - Please add suspicious domains here"
+}
